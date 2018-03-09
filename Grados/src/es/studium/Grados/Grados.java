@@ -25,7 +25,7 @@ public class Grados extends Frame implements WindowListener, ActionListener
 	
 	
 	
-	//He heditado esta clase (Álvaro M)
+	//He editado esta clase (Álvaro M)
 	public Grados()
 	{
 		setLayout( new GridLayout( 3,2 ) );
